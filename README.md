@@ -86,4 +86,4 @@ Foto destinasi dikumpulkan dari hasil pencarian Google. Sebagian bersumber dari 
 
 ## Pernyataan Penggunaan AI
 
-Dalam pengerjaan tugas ini saya menggunakan Claude (Anthropic) sebagai alat bantu. Bentuk bantuannya adalah menguraikan instruksi dosen menjadi langkah pengerjaan, memeriksa kode terhadap spesifikasi tugas, menyarankan perbaikan (misalnya agar tampilan detail pada layar lebar dapat digulir), membantu menelusuri kendala pengujian di Chrome DevTools dan emulator Android, serta menyusun draf README ini. Aplikasi saya jalankan, uji pada ukuran ponsel dan tablet, dan periksa dengan `flutter analyze` dan `flutter test`. Keputusan akhir atas isi kode dan dokumen ada pada saya.
+Dalam pengerjaan tugas ini, saya menggunakan Claude (Anthropic) sebagai alat bantu untuk memahami instruksi, memeriksa dan memperbaiki kode, serta mengatasi kendala pengujian. Aplikasi tetap saya jalankan dan uji melalui Chrome, emulator Android, flutter analyze, dan flutter test.
